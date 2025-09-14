@@ -1,0 +1,11 @@
+
+**/__pycache__
+.idea
+pretrained_checkpoint
+work_dirs
+data
+spt_ckpt
+doc
+.cache
+log*
+
